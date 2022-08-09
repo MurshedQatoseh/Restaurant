@@ -5,3 +5,9 @@ body{
     background-position: center;
     background-size: cover;
 }
+footer{
+    background-color: azure;
+}
+h2{
+    background-color: rgb(155, 107, 49);
+}
