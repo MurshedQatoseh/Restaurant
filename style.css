@@ -1,0 +1,25 @@
+
+
+    table, th, td {
+        border: 1px solid;
+        background-color: #B2C8DF;
+
+    }
+
+        
+
+
+body{
+    background-image: url(https://images.unsplash.com/photo-1659904825585-2fdf22b3aa73?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0MHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+a{
+    
+    padding-right: 15px;
+    position: inherit;
+    float: right;
+   
+}
